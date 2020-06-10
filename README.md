@@ -1,7 +1,7 @@
                           Django Modelviewset Update method :
 
  	sorbo prothom url create korte hoba jamon ta POST request ta kore chelam kivabe url create kora chilam
-{% url Rootapp-urls:app-urls:apifolder-urls:router-register-basename-methodname %}
+<pre>{% url Rootapp-urls:app-urls:apifolder-urls:router-register-basename-methodname %}
 Update korte hoila fixed kon object content gula update korte hoi…..Update korte gala amader id lagba……….
 
 Get request javabe kora hoyachelo thik tamon vabe kon event chara Content gula ke html page show korte hoba……...table nile vlo hoi ……….sathe akta button thekba update korer janno….
@@ -98,3 +98,4 @@ $(document).on('click', '.submit', function(){
     
 
 oi tuku kaj korla Content Updated success hoba……...
+<pre>
